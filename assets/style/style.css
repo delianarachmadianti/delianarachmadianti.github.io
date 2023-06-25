@@ -1,0 +1,47 @@
+.black-frame {
+    border: 2px solid black;
+    padding: 10px;
+  }
+  
+  .product-details {
+    text-align: left;
+  }
+  
+  .color-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .color-buttons .btn-color {
+    margin-right: 3px;
+  }
+  
+  
+  .size-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .btn-color {
+    background-color: #E6E6E6;
+  }
+  
+  .btn-size {
+    border: 1px solid #000000; 
+    margin: 5px;
+    width: 50px;
+  }
+  
+  .button-group {
+  display: flex;
+}
+
+.button-group button {
+  margin-right: 5px;
+}
+
+.table-border-bold {
+    border-bottom: 2px solid;
+  }
+    
